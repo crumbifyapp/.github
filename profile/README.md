@@ -1,6 +1,6 @@
 # Crumbify
 
-**The social app for people who take food seriously.**
+**The social app for all food lovers.**
 
 Crumbify is where your food history lives. Log restaurants, track orders, discover new places, and find friends who eat like you. Built for you, designed for people who eat out too much and aren't sorry about it.
 
