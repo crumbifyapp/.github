@@ -4,7 +4,7 @@
 
 Crumbify is where your food history lives. Log restaurants, track orders, discover new places, and find friends who eat like you. Built for you, designed for people who eat out too much and aren't sorry about it.
 
-[![App Store](https://img.shields.io/badge/App_Store-Coming_Soon-black?style=flat-square&logo=apple)](placeholder)
+[![App Store](https://img.shields.io/badge/App_Store-Coming_Soon-black?style=flat-square&logo=apple)](https://apps.apple.com/gb/app/crumbify/id6777163992)
 [![Google Play](https://img.shields.io/badge/Google_Play-Coming_Soon-black?style=flat-square&logo=google-play)](placeholder)
 [![Website](https://img.shields.io/badge/Website-crumbify.co.uk-brown?style=flat-square)](https://crumbify.co.uk)
 
