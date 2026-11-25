@@ -1,48 +1,53 @@
 # Crumbify
 
-**The social app for all food lovers.**
+**The social app for food lovers.**
 
-Crumbify is where your food history lives. Log restaurants, track orders, discover new places, and find friends who eat like you. Built for you, designed for people who eat out too much and aren't sorry about it.
+Crumbify is where your food life lives. Save the places you want to try, log the ones you have been to with a score and a photo, see it all on one map, and find friends who eat like you.
 
-[![App Store](https://img.shields.io/badge/App_Store?style=flat-square&logo=apple)](https://apps.apple.com/gb/app/crumbify/id6777163992)
-[![Google Play](https://img.shields.io/badge/Google_Play-Coming_Soon-black?style=flat-square&logo=google-play)](placeholder)
+[![App Store](https://img.shields.io/badge/App_Store-Download-black?style=flat-square&logo=apple)](https://apps.apple.com/gb/app/crumbify/id6777163992)
+![Google Play](https://img.shields.io/badge/Google_Play-Coming_soon-black?style=flat-square&logo=google-play)
 [![Website](https://img.shields.io/badge/Website-crumbify.co.uk-brown?style=flat-square)](https://crumbify.co.uk)
 
 ---
 
 ## What's in the app
 
-**Stats**
-Your top restaurants, go-to cuisines, favourite day to order, and a full food personality type. Monthly and annual wrapped summaries shows your year in food.
+**Home**
+Your friends' latest places, or what is trending near you. React, comment and save in one tap.
 
-**Reviews**
-Log every restaurant you've been to or ordered from. See your food history plotted on a map with pins.
+**Map**
+Everything on one map: the places you have visited, the places you have saved, and your friends' spots. Search by place name or search the area you are looking at.
 
 **Discover**
-A personalised "For You" feed of restaurants ranked by your actual taste profile. Double tap to like or skip — the feed learns what you want.
+Full-screen places picked for your taste. Swipe to skip, like or save, and filter by cuisine, price, distance or what is open now.
 
-**Food Soulmate**
-Find the person whose food taste matches yours. Cuisine overlap scores, shared favourites, personality compatibility — matched across the whole Crumbify user base.
+**Post a place**
+A photo, a score out of 10 and a note. Share it with friends only or with everyone.
 
-**Groups**
-Create a group with friends, share restaurants to a shared feed, vote on where to go next, and track a group Want-to-Try list. Seven themes. Photos. Real-time reactions.
+**Social and groups**
+Find friends, see who eats like you, and plan with a group: shared places, votes, and a group swipe for when nobody can decide.
 
-**Achievements**
-Sixteen unlocks for hitting milestones — including the Founding Member diamond for early supporters.
+**Profile**
+Your stats, achievements and collections in one place.
+
+**Monthly Wrapped**
+Your month in food as a shareable story. Part of Crumbify Premium.
+
+**Safe by design**
+Under-18s are private by default and hidden from strangers. Block, mute and report are always one tap away.
 
 ---
 
 ## Tech
 
-**Mobile** — React Native · Expo 55 · TypeScript · Zustand · Supabase · SQLite · Reanimated  
-**Web** — Next.js · Tailwind CSS · Supabase · Vercel  
-**Backend** — Supabase (PostgreSQL + Edge Functions) · RevenueCat · Google Places · AdMob
-
+**Mobile:** React Native, Expo, TypeScript, SQLite, Supabase
+**Web:** Next.js, Tailwind CSS, Vercel
+**Backend:** Supabase (PostgreSQL and Edge Functions), RevenueCat, Google Places, AdMob
 
 ---
 
 ## Socials
 
-- Instagram — [@crumbify.co.uk](https://www.instagram.com/crumbify.co.uk/)
-- TikTok — [@crumbifyco](https://www.tiktok.com/@crumbifyco)
-- X — [@crumbifyco](https://x.com/crumbifyco)
+- Instagram: [@crumbify.co.uk](https://www.instagram.com/crumbify.co.uk/)
+- TikTok: [@crumbifyco](https://www.tiktok.com/@crumbifyco)
+- X: [@crumbifyco](https://x.com/crumbifyco)
